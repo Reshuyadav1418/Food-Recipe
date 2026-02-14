@@ -19,5 +19,5 @@ app.use('/recipe', recipe);
 
 
 app.listen(PORT,(err)=>{
-    console.log(`listening on port  ${PORT} `);
+    console.log(`listening on port of ${PORT} `);
 });

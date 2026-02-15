@@ -17,7 +17,7 @@ const RecipeItems = () => {
                 <div className="card-body">
                   <div className="title">{item.title}</div>
                   <div className="icons">
-                    <div className="timer"><BsStopwatchFill/></div>
+                    <div className="timer"><BsStopwatchFill/>30 min</div>
                     <FaHeart />
                   </div>
                 </div>
